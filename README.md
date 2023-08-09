@@ -29,6 +29,15 @@ mv:move files and directories, can also be used to rename files or directories
 
 <img width="1440" alt="Screenshot 2023-08-09 at 10 10 57" src="https://github.com/holaroluwa/ola_project1/assets/132553183/dcbf61ad-859b-4192-8f1f-398b8d6bb57f">
 
+mkdir:make directory
+
+![Screenshot 2023-08-09 at 10 12 28](https://github.com/holaroluwa/ola_project1/assets/132553183/cded68c7-d977-4e13-b586-6648ce71f74b)
+
+rmdir:remove directory
+
+<img width="1440" alt="Screenshot 2023-08-09 at 10 13 35" src="https://github.com/holaroluwa/ola_project1/assets/132553183/5b13d3af-2067-4103-a711-d9a852aeb1d3">
+
+
 
 
 
