@@ -13,6 +13,10 @@ cd:change working directory
 
 <img width="1440" alt="Screenshot 2023-08-09 at 09 26 24" src="https://github.com/holaroluwa/ola_project1/assets/132553183/96f27353-e0fd-40af-b284-1662a8ddd531">
 
+ls:list files and directories
+
+![Uploading Screenshot 2023-08-09 at 09.47.19.png…]()
+
 
 
 
