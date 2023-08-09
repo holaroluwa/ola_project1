@@ -49,6 +49,12 @@ find:search files and directories within a specific directory
 
 <img width="1440" alt="Screenshot 2023-08-09 at 11 16 22" src="https://github.com/holaroluwa/ola_project1/assets/132553183/0f8cdcb3-b90d-40cc-8c76-de022eff2441">
 
+df:report system disk space
+
+<img width="1440" alt="Screenshot 2023-08-09 at 11 47 42" src="https://github.com/holaroluwa/ola_project1/assets/132553183/9727d239-50ba-4a12-878d-66f3082c7794">
+
+
+
 
 
 
