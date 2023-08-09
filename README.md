@@ -37,6 +37,12 @@ rmdir:remove directory
 
 <img width="1440" alt="Screenshot 2023-08-09 at 10 13 35" src="https://github.com/holaroluwa/ola_project1/assets/132553183/5b13d3af-2067-4103-a711-d9a852aeb1d3">
 
+rm:remove file
+
+<img width="1440" alt="Screenshot 2023-08-09 at 10 26 04" src="https://github.com/holaroluwa/ola_project1/assets/132553183/b8a84885-38ef-4290-a911-42160ade4184">
+
+
+
 
 
 
