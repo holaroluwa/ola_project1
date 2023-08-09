@@ -25,6 +25,12 @@ cp:copy files and directories
 
 ![Screenshot 2023-08-09 at 09 55 58](https://github.com/holaroluwa/ola_project1/assets/132553183/ccebadc6-c319-4c3e-9262-9e483e5b955b)
 
+mv:move files and directories, can also be used to rename files or directories
+
+<img width="1440" alt="Screenshot 2023-08-09 at 10 10 57" src="https://github.com/holaroluwa/ola_project1/assets/132553183/dcbf61ad-859b-4192-8f1f-398b8d6bb57f">
+
+
+
 
 
 
