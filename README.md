@@ -15,7 +15,12 @@ cd:change working directory
 
 ls:list files and directories
 
-![Uploading Screenshot 2023-08-09 at 09.47.19.png…]()
+<img width="1440" alt="Screenshot 2023-08-09 at 09 52 09" src="https://github.com/holaroluwa/ola_project1/assets/132553183/6a7f2d20-acea-4c24-8939-4479f933c395">
+
+cat:list and display content of files
+
+<img width="1440" alt="Screenshot 2023-08-09 at 09 51 21" src="https://github.com/holaroluwa/ola_project1/assets/132553183/b6e7a6d7-5cb7-44c3-80c2-7a8295984cee">
+
 
 
 
