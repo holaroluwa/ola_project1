@@ -21,6 +21,11 @@ cat:list and display content of files
 
 <img width="1440" alt="Screenshot 2023-08-09 at 09 51 21" src="https://github.com/holaroluwa/ola_project1/assets/132553183/b6e7a6d7-5cb7-44c3-80c2-7a8295984cee">
 
+cp:copy files and directories
+
+![Screenshot 2023-08-09 at 09 55 58](https://github.com/holaroluwa/ola_project1/assets/132553183/ccebadc6-c319-4c3e-9262-9e483e5b955b)
+
+
 
 
 
