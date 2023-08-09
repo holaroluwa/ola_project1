@@ -41,7 +41,9 @@ rm:remove file
 
 <img width="1440" alt="Screenshot 2023-08-09 at 10 26 04" src="https://github.com/holaroluwa/ola_project1/assets/132553183/b8a84885-38ef-4290-a911-42160ade4184">
 
+touch:create new file
 
+<img width="1440" alt="Screenshot 2023-08-09 at 10 25 00" src="https://github.com/holaroluwa/ola_project1/assets/132553183/3c7c93aa-4c34-46b6-83af-f1e8d7d39a84">
 
 
 
