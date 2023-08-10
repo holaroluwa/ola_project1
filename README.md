@@ -76,7 +76,7 @@ tar -cvf: command achives multiple files into a TAR file
                                    
                                    FILES PERMISSIONS AND OWNERSHIP
 
-
+chmod:
 
 
 
