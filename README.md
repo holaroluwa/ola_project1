@@ -80,6 +80,12 @@ chmod:used to change files or directory permisiions, chmod 755:owner full permis
 
 ![Screenshot 2023-08-10 at 18 38 42](https://github.com/holaroluwa/ola_project1/assets/132553183/316c3c9e-8525-431e-ae7e-c97416c6303e)
 
+chown:used to change the owner of a file or directory
+
+<img width="1440" alt="Screenshot 2023-08-10 at 19 04 54" src="https://github.com/holaroluwa/ola_project1/assets/132553183/dc2b9d2d-4581-40de-ac79-2bfaa68ca960">
+
+
+
 
 
 
