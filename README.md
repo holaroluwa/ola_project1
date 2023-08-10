@@ -90,7 +90,7 @@ jobs:shows status of jobs in the current session
 
 kill:stops the first job in your job list
 
-![Uploading Screenshot 2023-08-10 at 23.39.17.png…]()
+<img width="1440" alt="Screenshot 2023-08-10 at 23 49 14" src="https://github.com/holaroluwa/ola_project1/assets/132553183/1c8ad614-ba54-4536-879d-be208f056843">
 
 ping:check if a network or server is reachable
 
