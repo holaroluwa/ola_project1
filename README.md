@@ -96,6 +96,9 @@ ping:check if a network or server is reachable
 
 <img width="1440" alt="Screenshot 2023-08-10 at 23 43 09" src="https://github.com/holaroluwa/ola_project1/assets/132553183/0ce8ba16-97e9-49cd-8578-a3878e5cfc67">
 
+wget:download files from the web
+
+<img width="1440" alt="Screenshot 2023-08-10 at 23 51 04" src="https://github.com/holaroluwa/ola_project1/assets/132553183/fc9fac26-b92f-417e-9fec-f38ddc07ef5a">
 
 
 
