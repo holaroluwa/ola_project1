@@ -88,7 +88,9 @@ jobs:shows status of jobs in the current session
 
 <img width="1440" alt="Screenshot 2023-08-10 at 23 33 27" src="https://github.com/holaroluwa/ola_project1/assets/132553183/658795cd-40b0-4aa0-b6fe-5d1a232ad168">
 
+kill:stops the first job in your job list
 
+![Uploading Screenshot 2023-08-10 at 23.39.17.png…]()
 
 
 
