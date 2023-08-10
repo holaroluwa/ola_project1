@@ -112,7 +112,9 @@ history:shows past commands and list of recently used commands
 
 <img width="1440" alt="Screenshot 2023-08-10 at 23 58 55" src="https://github.com/holaroluwa/ola_project1/assets/132553183/87ef78dc-822f-44cf-b5af-aaeb72cf74f3">
 
+man:manual of any command or utilities 
 
+<img width="1440" alt="Screenshot 2023-08-11 at 00 02 22" src="https://github.com/holaroluwa/ola_project1/assets/132553183/cf54721e-5d2a-4775-b02d-d5264adc244f">
 
 
 
