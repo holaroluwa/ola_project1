@@ -72,8 +72,8 @@ diff:compare two files line by line after analysing them
 tar -cvf: command achives multiple files into a TAR file
 
 <img width="1440" alt="Screenshot 2023-08-10 at 18 08 49" src="https://github.com/holaroluwa/ola_project1/assets/132553183/8efadb11-48f4-4d0a-a64e-2b76ecf3cbfd">
-
-##FILES PERMISSIOND AND OWNERSHIP
+-------------------------------------------------------------------------------------------------------------------------------------------
+                                   #FILES PERMISSIOND AND OWNERSHIP
 
 
 
