@@ -100,8 +100,13 @@ wget:download files from the web
 
 <img width="1440" alt="Screenshot 2023-08-10 at 23 51 04" src="https://github.com/holaroluwa/ola_project1/assets/132553183/fc9fac26-b92f-417e-9fec-f38ddc07ef5a">
 
+uname:displays system information
 
+<img width="1440" alt="Screenshot 2023-08-10 at 23 54 28" src="https://github.com/holaroluwa/ola_project1/assets/132553183/67cec8bc-4ae9-4e74-8c8e-589379f3c0ab">
 
+top:shows running processes and live list of your system resources
+
+<img width="1440" alt="Screenshot 2023-08-10 at 23 56 28" src="https://github.com/holaroluwa/ola_project1/assets/132553183/bb0fb84f-badb-48c8-beb3-1ea64f89cdf9">
 
 
 
