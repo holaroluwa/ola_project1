@@ -57,6 +57,11 @@ du:shows disk usage
 
 <img width="1440" alt="Screenshot 2023-08-09 at 11 51 43" src="https://github.com/holaroluwa/ola_project1/assets/132553183/8c95c0c7-53c6-48eb-95bc-a706fc7dfcba">
 
+head:view the first lines of a text file
+
+<img width="1440" alt="Screenshot 2023-08-10 at 17 29 50" src="https://github.com/holaroluwa/ola_project1/assets/132553183/3a31744f-15ae-4262-921e-d246186b6654">
+
+
 
 
 
