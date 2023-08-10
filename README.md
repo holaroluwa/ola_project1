@@ -142,6 +142,9 @@ nano,vi and jed:opening a file using nano and vi
 <img width="1440" alt="Screenshot 2023-08-11 at 00 31 08" src="https://github.com/holaroluwa/ola_project1/assets/132553183/bdfef773-61e5-4055-9eba-46d8ccd31928">
 <img width="1440" alt="Screenshot 2023-08-11 at 00 31 16" src="https://github.com/holaroluwa/ola_project1/assets/132553183/da9cb905-b64f-419c-a1b2-8f8038c037c5">
 
+alias,unalias:creat shortcut for long commands in linux
+
+<img width="1440" alt="Screenshot 2023-08-11 at 00 41 37" src="https://github.com/holaroluwa/ola_project1/assets/132553183/f128b8b0-5e44-4e3e-8f0c-469a03b086e4">
 
 
 
