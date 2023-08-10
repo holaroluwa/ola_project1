@@ -132,6 +132,9 @@ useradd & userdel:create a new user and remove a user
 
 <img width="1440" alt="Screenshot 2023-08-11 at 00 22 25" src="https://github.com/holaroluwa/ola_project1/assets/132553183/0fabe827-d2b9-4017-b502-98a6cab71830">
 
+apt-get:used to hande packages in ubuntu, it requires sudo priviledges
+
+<img width="1440" alt="Screenshot 2023-08-11 at 00 25 02" src="https://github.com/holaroluwa/ola_project1/assets/132553183/5a0bc966-7f0a-4351-9d76-38863ba5877b">
 
 
 
