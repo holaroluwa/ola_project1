@@ -92,6 +92,12 @@ kill:stops the first job in your job list
 
 ![Uploading Screenshot 2023-08-10 at 23.39.17.png…]()
 
+ping:check if a network or server is reachable
+
+<img width="1440" alt="Screenshot 2023-08-10 at 23 43 09" src="https://github.com/holaroluwa/ola_project1/assets/132553183/0ce8ba16-97e9-49cd-8578-a3878e5cfc67">
+
+
+
 
 
 
