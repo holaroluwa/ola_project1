@@ -136,6 +136,11 @@ apt-get:used to hande packages in ubuntu, it requires sudo priviledges
 
 <img width="1440" alt="Screenshot 2023-08-11 at 00 25 02" src="https://github.com/holaroluwa/ola_project1/assets/132553183/5a0bc966-7f0a-4351-9d76-38863ba5877b">
 
+nano,vi and jed:opening a file using nano and vi
+
+<img width="1440" alt="Screenshot 2023-08-11 at 00 30 31" src="https://github.com/holaroluwa/ola_project1/assets/132553183/7a4a8f53-5375-414c-be1f-2b31d82fc05d">
+<img width="1440" alt="Screenshot 2023-08-11 at 00 31 08" src="https://github.com/holaroluwa/ola_project1/assets/132553183/bdfef773-61e5-4055-9eba-46d8ccd31928">
+<img width="1440" alt="Screenshot 2023-08-11 at 00 31 16" src="https://github.com/holaroluwa/ola_project1/assets/132553183/da9cb905-b64f-419c-a1b2-8f8038c037c5">
 
 
 
