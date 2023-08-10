@@ -116,6 +116,26 @@ man:manual of any command or utilities
 
 <img width="1440" alt="Screenshot 2023-08-11 at 00 02 22" src="https://github.com/holaroluwa/ola_project1/assets/132553183/cf54721e-5d2a-4775-b02d-d5264adc244f">
 
+echo:print text
+
+<img width="1440" alt="Screenshot 2023-08-11 at 00 05 22" src="https://github.com/holaroluwa/ola_project1/assets/132553183/8a6170ed-304a-403f-9559-c4c469f9d42b">
+
+zip,unzip commands
+
+<img width="1440" alt="Screenshot 2023-08-11 at 00 12 29" src="https://github.com/holaroluwa/ola_project1/assets/132553183/9df8e58e-8e15-4034-8028-af2067808f5a">
+
+hostname:shows your system network name
+
+<img width="1440" alt="Screenshot 2023-08-11 at 00 15 01" src="https://github.com/holaroluwa/ola_project1/assets/132553183/ff0f76b1-8689-49ec-8cc3-f91a27fde8c7">
+
+useradd & userdel:create a new user and remove a user
+
+<img width="1440" alt="Screenshot 2023-08-11 at 00 22 25" src="https://github.com/holaroluwa/ola_project1/assets/132553183/0fabe827-d2b9-4017-b502-98a6cab71830">
+
+
+
+
+
 
 
 
