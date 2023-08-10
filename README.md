@@ -84,6 +84,12 @@ chown:used to change the owner of a file or directory
 
 <img width="1440" alt="Screenshot 2023-08-10 at 19 04 54" src="https://github.com/holaroluwa/ola_project1/assets/132553183/dc2b9d2d-4581-40de-ac79-2bfaa68ca960">
 
+jobs:shows status of jobs in the current session
+
+<img width="1440" alt="Screenshot 2023-08-10 at 23 33 27" src="https://github.com/holaroluwa/ola_project1/assets/132553183/658795cd-40b0-4aa0-b6fe-5d1a232ad168">
+
+
+
 
 
 
