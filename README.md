@@ -76,7 +76,12 @@ tar -cvf: command achives multiple files into a TAR file
                                    
                                    FILES PERMISSIONS AND OWNERSHIP
 
-chmod:
+chmod:used to change files or directory permisiions, chmod 755:owner full permissiom, chmod 777:gives everyone full permissions
+
+![Screenshot 2023-08-10 at 18 38 42](https://github.com/holaroluwa/ola_project1/assets/132553183/316c3c9e-8525-431e-ae7e-c97416c6303e)
+
+
+
 
 
 
