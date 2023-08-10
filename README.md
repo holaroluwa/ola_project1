@@ -146,7 +146,13 @@ alias,unalias:creat shortcut for long commands in linux
 
 <img width="1440" alt="Screenshot 2023-08-11 at 00 41 37" src="https://github.com/holaroluwa/ola_project1/assets/132553183/f128b8b0-5e44-4e3e-8f0c-469a03b086e4">
 
+su:command to switch user account in linux
 
+<img width="1440" alt="Screenshot 2023-08-11 at 00 49 37" src="https://github.com/holaroluwa/ola_project1/assets/132553183/ae089478-99e0-4d49-9a60-5e9e13ea680b">
+
+htop:used to view processes  in a system-running environment 
+
+<img width="1440" alt="Screenshot 2023-08-11 at 00 53 23" src="https://github.com/holaroluwa/ola_project1/assets/132553183/fed80f25-1695-444c-8955-dbcdfe475b5b">
 
 
 
