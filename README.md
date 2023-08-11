@@ -154,6 +154,9 @@ htop:used to view processes  in a system-running environment
 
 <img width="1440" alt="Screenshot 2023-08-11 at 00 53 23" src="https://github.com/holaroluwa/ola_project1/assets/132553183/fed80f25-1695-444c-8955-dbcdfe475b5b">
 
+ps:report a snapshot of the current processes in a system 
+
+<img width="1440" alt="Screenshot 2023-08-11 at 00 59 27" src="https://github.com/holaroluwa/ola_project1/assets/132553183/26851c14-3922-4b12-9169-2a6540c35456">
 
 
 
